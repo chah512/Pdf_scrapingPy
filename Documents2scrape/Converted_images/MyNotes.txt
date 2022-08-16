@@ -1,0 +1,4 @@
+--------------->Values contains only uppercase letters
+--------------->key:value
+--------------->title and company name are upper case 
+--------------->almost everything important is uppercase!!!!!!!!!!(ALMOST)
